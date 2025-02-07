@@ -1,6 +1,4 @@
-# Foobar
-
-Claire - A Rule-Based Chatbot
+# Claire - A Rule-Based Chatbot
 
 ## Usage
 
@@ -31,7 +29,3 @@ pairs = [
     [r"where is my order?|order status", ["Can you please provide your order number?"]],
 ]
 ```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
